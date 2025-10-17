@@ -1,0 +1,3 @@
+Before submission:
+- [ ] Double check module requirement compliance
+- [ ] Fill in word count in AI coversheet
