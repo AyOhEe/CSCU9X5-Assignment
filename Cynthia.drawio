@@ -19,7 +19,7 @@
         <mxCell id="ByWvEx__4UvTx4S7Grb4-6" value="&lt;ul&gt;&lt;li&gt;Gender: Female&lt;/li&gt;&lt;li&gt;Location: UK&lt;/li&gt;&lt;li&gt;Family Status: Unmarried&lt;/li&gt;&lt;li&gt;Education: Undergraduate degree&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
           <mxGeometry y="140" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ByWvEx__4UvTx4S7Grb4-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ByWvEx__4UvTx4S7Grb4-9" value="" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="250" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ByWvEx__4UvTx4S7Grb4-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -34,11 +34,29 @@
         <mxCell id="ByWvEx__4UvTx4S7Grb4-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Pain Points&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="225" y="250" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ByWvEx__4UvTx4S7Grb4-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="440" width="380" height="120" as="geometry" />
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Already familiar with some VR interaction paradigms as part of her prior work, but looking to broaden her horizons outside of what she has used before for her next project, and would like to research other options and how they compare.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="270" width="160" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ByWvEx__4UvTx4S7Grb4-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Interests&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="30" y="440" width="80" height="30" as="geometry" />
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-2" value="Frustrated with the lack of resources discussing pros and cons of designs specific to VR - compared to the broader array of resources for traditional software and game design, it feels difficult to make informed decisions." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Interests&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="70" y="440" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Current methods&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-8" value="&lt;ul&gt;&lt;li&gt;Discussion with peers&lt;/li&gt;&lt;li&gt;Online forums&lt;/li&gt;&lt;li&gt;Official documentation&lt;/li&gt;&lt;li&gt;Referencing experiences developed previously&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wzlWt4TNQF2eSHRwDfuk-9" value="&lt;ul&gt;&lt;li&gt;VR as a medium&lt;/li&gt;&lt;li&gt;Accessible design&lt;/li&gt;&lt;li&gt;Local history&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="460" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
