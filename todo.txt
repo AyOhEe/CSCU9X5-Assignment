@@ -24,3 +24,12 @@ Layout:
     -Design tips and common pain points
   -Pros and cons of varying hardware for smooth interaction
     -The evolution and utilisation of VR hardware over time
+
+
+WC min: 2800
+WC max: 4200
+
+
+
+wireframe relevant heuristics and guidelines:
+- TODO fill in from notes
