@@ -13,22 +13,9 @@ Tech:
 - CSS
 - JS
 
-Layout:
--Homepage
-  -Case studies, and VR environments as a whole
-    -Case study: VRChat
-    -Case study: Budget Cuts
-    -Case study: Boneworks 
-    -Case study: Bonelab
-  -My thoughts on interaction in VR
-    -Design tips and common pain points
-  -Pros and cons of varying hardware for smooth interaction
-    -The evolution and utilisation of VR hardware over time
-
 
 WC min: 2800
 WC max: 4200
-
 
 
 wireframe relevant heuristics and guidelines:

@@ -1,11 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>VirtualInsight</title>
-</head>
-<body>
-	
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <script src="../common.js"></script>
+
+    <title>VirtualInsight</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-dark-subtle">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="../index.html">
+          <img src="../logo.svg" height="64px" alt="VirtualInsight Logo">
+          VirtualInsight
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <div class="vr opacity-100"></div>
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item dropdown">
+              <button class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                Case Studies
+              </button>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="../case_studies/case_studies.html">Full list</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="../case_studies/vrchat.html">VRChat</a></li>
+                <li><button class="dropdown-item" onclick="pageNotImplemented()">Boneworks</button></li>
+                <li><button class="dropdown-item" onclick="pageNotImplemented()">Bonelab</button></li>
+                <li><button class="dropdown-item" onclick="pageNotImplemented()">Budget Cuts</button></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <button class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                VR Design
+              </button>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="../vr_design/vr_design.html">Main page</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="../vr_design/tips.html">Design Tips</a></li>
+                <li><button class="dropdown-item" onclick="pageNotImplemented()">Author's Thoughts</button></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <button class="nav-link dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                VR Hardware
+              </button>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="../hardware/hardware.html">Main page</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="../hardware/evolution.html">Hardware Evolution</a></li>
+                <li><a class="dropdown-item" href="../hardware/suitability.html">Hardware Suitability</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <h1 class="p-2">Case Study: VRChat</h1>
+  </body>
 </html>
