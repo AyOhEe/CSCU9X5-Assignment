@@ -1,17 +1,117 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
-  <diagram id="elg1bVFc517uPuuHLJQM" name="Page-1">
+  <diagram name="Page-1" id="cQHVT1ar5EXAj-vphc59">
     <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3NthkCwrs4ci_Kf3wrUU-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry width="820" height="460" as="geometry" />
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="4" width="820" height="1020" as="geometry" />
         </mxCell>
-        <mxCell id="3NthkCwrs4ci_Kf3wrUU-2" value="VirtualInsight" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="3NthkCwrs4ci_Kf3wrUU-1">
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-2" value="Hardware" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="3NthkCwrs4ci_Kf3wrUU-3" value="https://www.virtualinsight.com/hardware/hardware.html" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="3NthkCwrs4ci_Kf3wrUU-1">
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-3" value="http://localhost/hardware/hardware.html" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="10" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Virtual&lt;br&gt;Insight&lt;/b&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="70" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-10" value="" style="line;strokeWidth=2;html=1;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry y="190" width="820" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-12" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="170" y="110" width="10" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-15" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="330" y="110" width="10" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-16" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="490" y="110" width="10" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-17" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="650" y="110" width="10" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-18" value="&lt;font style=&quot;color: rgb(126, 166, 224); font-size: 15px;&quot;&gt;&lt;u style=&quot;&quot;&gt;Homepage&lt;/u&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="200" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-19" value="&lt;font&gt;&lt;font style=&quot;font-size: 15px; color: rgb(0, 0, 0);&quot;&gt;Case Studies&lt;/font&gt;&lt;font style=&quot;color: rgb(126, 166, 224); font-size: 15px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(12, 13, 14); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI Adjusted&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;▼&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="358.5" y="122.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-20" value="&lt;font style=&quot;font-size: 15px; color: rgb(0, 0, 0);&quot;&gt;VR Design&lt;/font&gt;&lt;font style=&quot;color: rgb(126, 166, 224); font-size: 15px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(12, 13, 14); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI Adjusted&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;▼&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="520" y="122.5" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6_AA9kezDZ1mw9NShVN-21" value="&lt;font style=&quot;font-size: 15px; color: rgb(0, 0, 0);&quot;&gt;Hardware&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;color: rgb(12, 13, 14); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI Adjusted&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, sans-serif; font-size: 15px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;▼&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="X6_AA9kezDZ1mw9NShVN-1" vertex="1">
+          <mxGeometry x="680" y="122" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;VR Hardware&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="X6_AA9kezDZ1mw9NShVN-1">
+          <mxGeometry x="10" y="200" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-2" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nibh tellus, fermentum non mi a, hendrerit rutrum dolor. In hac habitasse platea dictumst. Fusce dapibus urna id lacus dictum, a gravida enim placerat. Quisque id erat nec augue feugiat tristique in a nulla. Fusce finibus at odio aliquam ornare. Curabitur nec scelerisque lectus. Vivamus semper justo justo, eget auctor mi luctus sed. In hac habitasse platea dictumst. Etiam ut elementum ligula. Aliquam pharetra risus mollis ante vestibulum efficitur. Donec pulvinar nulla ut felis iaculis maximus. Aenean eu posuere lacus, ut tristique dui. Curabitur elementum elit nec magna molestie, sed congue orci mattis. Sed posuere iaculis pharetra. Maecenas ante enim, maximus sed velit ut, hendrerit tincidunt tellus.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="X6_AA9kezDZ1mw9NShVN-1">
+          <mxGeometry x="10" y="240" width="800" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-3" value="" style="swimlane;startSize=0;" vertex="1" parent="X6_AA9kezDZ1mw9NShVN-1">
+          <mxGeometry x="10" y="600" width="800" height="200" as="geometry">
+            <mxRectangle x="10" y="550" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-3">
+          <mxGeometry x="10" y="10" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;&lt;u&gt;Evolution of Hardware&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-3">
+          <mxGeometry x="200" y="10" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-6" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nibh tellus, fermentum non mi a, hendrerit rutrum dolor. In hac habitasse platea dictumst. Fusce dapibus urna id lacus dictum, a gravida enim placerat. Quisque id erat nec augue feugiat tristique in a nulla. Fusce finibus at odio aliquam ornare. Curabitur nec scelerisque lectus. Vivamus semper justo justo, eget auctor mi luctus sed. In hac habitasse platea dictumst. Etiam ut elementum ligula. Aliquam pharetra risus mollis ante vestibulum efficitur. Donec pulvinar nulla ut felis iaculis maximus. Aenean eu posuere lacus, ut tristique dui.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-3">
+          <mxGeometry x="200" y="50" width="580" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-7" value="" style="swimlane;startSize=0;" vertex="1" parent="X6_AA9kezDZ1mw9NShVN-1">
+          <mxGeometry x="10" y="810" width="800" height="200" as="geometry">
+            <mxRectangle x="10" y="550" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-8" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-7">
+          <mxGeometry x="10" y="10" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-9" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;&lt;u&gt;Hardware Suitability&lt;/u&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-7">
+          <mxGeometry x="200" y="10" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-10" value="&lt;span style=&quot;font-family: &amp;quot;Open Sans&amp;quot;, Arial, sans-serif; font-size: 14px; text-align: justify; background-color: rgb(255, 255, 255);&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse nibh tellus, fermentum non mi a, hendrerit rutrum dolor. In hac habitasse platea dictumst. Fusce dapibus urna id lacus dictum, a gravida enim placerat. Quisque id erat nec augue feugiat tristique in a nulla. Fusce finibus at odio aliquam ornare. Curabitur nec scelerisque lectus. Vivamus semper justo justo, eget auctor mi luctus sed. In hac habitasse platea dictumst. Etiam ut elementum ligula. Aliquam pharetra risus mollis ante vestibulum efficitur. Donec pulvinar nulla ut felis iaculis maximus. Aenean eu posuere lacus, ut tristique dui.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-7">
+          <mxGeometry x="200" y="50" width="580" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-11" value="" style="swimlane;startSize=0;" vertex="1" parent="X6_AA9kezDZ1mw9NShVN-1">
+          <mxGeometry x="40" y="380" width="740" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Poll: Which headset do you own?&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="6" y="10" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-13" value="HTC Vive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="114" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-14" value="Meta Quest 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="114" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-15" value="Meta Quest 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="245" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-16" value="Valve Index" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="245" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-17" value="Meta Quest 3S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="375" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-18" value="Other" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="505" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-20" value="Pico 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="375" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-21" value="None" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="505" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a0hvGQGr9ONOJ1fuJGhS-22" value="Note: Upon being clicked, will reveal percentages for each selection, and a tick next to the selected option." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="a0hvGQGr9ONOJ1fuJGhS-11">
+          <mxGeometry x="630" y="50" width="100" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
