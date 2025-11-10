@@ -1,9 +1,10 @@
 .homepage-page-selector {
    width: 20rem;
+   border-radius: 5px;
 }
 
 .homepage-page-selector-text {
-  font-size: calc(2vw);
+  font-size: calc(max(2vw, 4vh));
 }
 
 #homepage-display {

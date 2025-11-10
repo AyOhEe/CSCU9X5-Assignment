@@ -19,3 +19,10 @@
   align-items: center;
   justify-content: center;
 }
+
+/*equivalent to the lg breakpoint. makes sure text doesn't get squished horizontally on mobile*/
+@media (min-width: 992px) {
+  .w-lg-70 {
+    max-width: 70%;
+  }
+}
