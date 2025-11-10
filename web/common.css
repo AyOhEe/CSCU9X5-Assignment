@@ -6,18 +6,25 @@
   width: 100%;
 }
 
-.text-image-centered {
+.centered-child {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-#homepage-display {
+.homepage-page-selector {
+   width: 20rem;
+}
+
+.vcenter-children {
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: center;
+}
 
+#homepage-display {
   max-height: 25rem;
   overflow-y: hidden;
 }
