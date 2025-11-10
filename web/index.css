@@ -1,0 +1,16 @@
+.homepage-page-selector {
+   width: 20rem;
+}
+
+.homepage-page-selector-text {
+  font-size: calc(2vw);
+}
+
+#homepage-display {
+  max-height: 25rem;
+}
+
+#homepage-display-text {
+  color: white;
+  font-size: calc(8vw);
+}
