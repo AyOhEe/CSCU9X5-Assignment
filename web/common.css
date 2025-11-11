@@ -2,10 +2,6 @@
   filter: brightness(25%);
 }
 
-.fullwidth {
-  width: 100%;
-}
-
 .centered-child {
   position: absolute;
   top: 50%;
