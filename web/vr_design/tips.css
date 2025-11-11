@@ -1,0 +1,13 @@
+.tips-tab-image {
+    max-width: calc(max(40vh, 25vw));
+}
+
+.table {
+    background-color: gray;
+    border-radius: 7px;
+}
+
+.table {
+    background-color: lightgray;
+    border-color: black;
+}
