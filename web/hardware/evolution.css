@@ -1,0 +1,26 @@
+.evolution-tab-image {
+    max-width: calc(max(35vh, 20vw));
+}
+
+.header-notch {
+    width: 1rem;
+    min-height: 1px;
+    border-color: black;
+    border: 1px;
+}
+
+.vr {
+    opacity: 0.7;
+    color: black;
+}
+
+.timeline-dot {
+    position: relative;
+    left: -9px;
+    font-size: xx-large;
+}
+
+.year-text {
+    width: 3rem;
+    margin-top: 0.9rem;
+}

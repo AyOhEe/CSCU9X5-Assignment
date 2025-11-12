@@ -24,6 +24,12 @@
 }
 
 @media (min-width: 992px) {
+  .w-lg-80 {
+    max-width: 90%;
+  }
+}
+
+@media (min-width: 992px) {
   .w-lg-70 {
     max-width: 70%;
   }
