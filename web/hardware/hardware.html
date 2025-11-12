@@ -9,6 +9,7 @@
     <link href="hardware.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
     <script src="../common.js"></script>
+    <script src="hardware.js"></script>
 
     <title>VirtualInsight</title>
   </head>
@@ -76,67 +77,67 @@
           <h4>Poll: Which headset do you own?</h3>
           <div class="row row-cols-2 row-cols-lg-4 w-100 justify-content-center">
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(0)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   HTC Vive
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(1)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   Valve Index
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(2)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   Pico 4
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(3)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   Meta Quest 2
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(4)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   Meta Quest 3
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(5)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   Meta Quest 3S
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(6)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   Other
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
             <div class="poll-button-panel col mb-3 position-relative align-items-center">
-              <button class="poll-button position-relative w-100 h-100 m-2 p-0">
+              <button class="poll-button position-relative w-100 h-100 m-2 p-0" onclick="clickPollButton(7)">
                 <p class="position-relative hardware-button-text m-auto z-1">
                   None
                 </p>
-                <div class="position-absolute top-0 start-0 h-100 w-50 hardware-result-slider bg-black"></div>
+                <div class="position-absolute top-0 start-0 h-100 hardware-result-slider bg-black"></div>
               </button>
             </div>
           </div>  
