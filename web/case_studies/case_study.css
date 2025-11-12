@@ -8,5 +8,5 @@
 }
 
 .case-study-tab-image {
-    max-width: calc(max(55vh, 20vw));
+    max-width: calc(max(40vh, 20vw));
 }
